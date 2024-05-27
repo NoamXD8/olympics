@@ -103,7 +103,7 @@ KAZ,Kazakhstan,KAZ
 KEN,Kenya,KEN
 KGZ,Kirghizistan,KGZ
 KIR,Kiribati,KIR
-KOS,Kosovo,– n. d. –
+KOS,Kosovo, XXK
 KOR,Corée du Sud,KOR
 KSA,Arabie saoudite,SAU
 KUW,Koweït,KWT
@@ -144,8 +144,8 @@ NIG,Niger,NER
 NOR,Norvège,NOR
 NRU,Nauru,NRU
 NZL,Nouvelle-Zélande,NZL
-OAR,Athlètes olympiques de Russie (Olympic Athlete from Russia),– n. d. –
-OMA,Oman  Oman,OMN
+OAR,Athlètes olympiques de Russie (Olympic Athlete from Russia),RUS
+OMA,Oman Oman,OMN
 PAK,Pakistan,PAK
 PAN,Panama,PAN
 PAR,Paraguay,PRY
@@ -159,8 +159,7 @@ POR,Portugal,PRT
 PRK,Corée du Nord (République populaire démocratique de Corée),PRK
 PUR,Porto Rico,PRI
 QAT,Qatar,QAT
-ROC,Comité olympique de Russie,– n. d. –
-ROT,Équipe olympique des réfugiés (Refugee Olympic Team),– n. d. –
+ROC,Comité olympique de Russie, RUS
 ROU,Roumanie,ROU
 RSA,Afrique du Sud,ZAF
 RUS,"Russie, Fédération de",RUS
