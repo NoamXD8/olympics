@@ -1,7 +1,7 @@
 Equipe,"Nb.
-Ete",Gold,Silver,Bronze,Total,"Nb.
-Hiver",Gold,Silver,Bonze,Total,"Nb.
-Jeux",Gold,Silver,Bonze,Total combine
+Ete",GoldSummer,SilverSummer,BronzeSummer,TotalSummer,"Nb.
+Hiver",GoldWinter,SilverWinte,BonzeWinte,TotalWinte,"Nb.
+Jeux",GoldCumul,SilverCumul,BonzeCumul,Total combine
 Afghanistan,15,0,0,2,2,0,0,0,0,0,15,0,0,2,2
 Afrique du Sud,20,27,33,29,89,7,0,0,0,0,27,27,33,29,89
 Algérie,14,5,4,8,17,3,0,0,0,0,17,5,4,8,17
